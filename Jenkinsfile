@@ -1,2 +1,2 @@
-@Library('shared-AWS-Library') _
+@Library('shared-Jenkins-library') _
 scriptStages()
